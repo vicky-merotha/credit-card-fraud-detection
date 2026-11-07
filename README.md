@@ -244,8 +244,4 @@ python scripts/credit_fraud_train.py \
 * t-SNE (`sklearn.manifold`)
 * Jupyter Notebook
 
----
-## Contact
-
-**Author:** Taher Alabbar    
-**Email:** t.alabbar.ca@gmail.com, [**LinkedIn**](https://www.linkedin.com/in/taher-alabbar/)  
+ 
